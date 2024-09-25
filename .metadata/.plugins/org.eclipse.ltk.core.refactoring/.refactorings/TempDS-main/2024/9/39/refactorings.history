@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;Client.java&apos;&#x0D;&#x0A;- Original project: &apos;TempDS-main&apos;&#x0D;&#x0A;- Destination element: &apos;Client.java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ListenerThread.java&#x0D;&#x0A;     Client.java&#x0D;&#x0A;     ClientHeartbeat.java&#x0D;&#x0A;     MainFrame.java" description="Copy files" destination="=JavaClient/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;{Client.java" element1="TempDS-main/JavaClient/src/main/java/ListenerThread.java" element2="TempDS-main/JavaClient/src/main/java/Client.java" element3="TempDS-main/JavaClient/src/main/java/ClientHeartbeat.java" element4="TempDS-main/JavaClient/src/main/java/MainFrame.java" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1727246911878" units="0" version="1.0"/>
+</session>
